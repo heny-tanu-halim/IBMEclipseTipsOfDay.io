@@ -1,0 +1,24 @@
+{
+  "name": "ibm_eclipse_tips",
+  "version": "1.0.0",
+  "description": "Repository containing IBM Eclipse Tips",
+  "main": "createJson.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henytjin/IBMEclipseTipsOfDay.git"
+  },
+  "keywords": [
+    "ibm",
+    "eclipse",
+    "tips"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henytjin/IBMEclipseTipsOfDay/issues"
+  },
+  "homepage": "https://github.com/henytjin/IBMEclipseTipsOfDay#readme"
+}

@@ -1,0 +1,16 @@
+?? const let var
+?? class
+?? strict mode
+?? generator function
+
+javascript global standard build-in objects
+
+javascript destructuring assignment
+
+javascript function generator
+
+anonymous function --> usually used with event
+
+function expression --> set variable to a defined function
+
+immediately invoke function expression
