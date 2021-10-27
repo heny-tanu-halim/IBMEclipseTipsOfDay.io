@@ -1,1 +1,0 @@
-Create script to get all html files for every folder
